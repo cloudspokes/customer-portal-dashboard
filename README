@@ -1,0 +1,12 @@
+Customer Portal Dashboard with Google Chart Tools
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=204
+Challenge end date: Wed Jun 01 04:00:00 GMT 2011
+
+Description
+===========
+<p>Use Google Chart Tools to create dashboard components for the Customer Portal. Dashboard components are a great way to graphically represent salesforce.com data. However, even though reports are available to Customer Portal users, dashboards components are (sadly) not. We’d like to create one or a series of Visualforce components that could be used to mimic a salesforce.com dashboard. </p> <p>First Place: $750<br> Second Place: $250</p>
+
+Requirements
+============
+<p>Use <a href="http://code.google.com/apis/chart/" target="_blank">Google Chart Tools</a> to create either a single Visualforce component or individual Visualforce components to display a pie chart, bar chart and table chart for Force.com data. Display all three charts on a Visualforce page to mimic a salesforce.com dashboard. Link each chart to a URL which could either be a report or another Visualforce page. </p> <p>Be as creative as possible to make the Visualforce components flexible and reusable.</p> <p>The components can use either a standard controller, custom controller or controller extension.</p> <p>Must have adequate test coverage (75%+).</p>
